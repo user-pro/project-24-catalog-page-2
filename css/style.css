@@ -587,6 +587,9 @@ body {
   background-color: #2E2822 !important;
   border: none;
 }
+.footer{
+  background-color: #1A1514 !important;
+}
 
 .c-page-main {
   overflow: hidden;
